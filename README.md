@@ -1,17 +1,28 @@
-# Memory matching game
+# 🎮 Memory Matching Game
 
-## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
+## 🕹️ Play the Game Now!
+[**👉 Click Here to Play!**](https://vectorstatic.github.io/Memory-Matching-Game/)
 
+## 📌 About the Project
+This is a **fun and interactive memory matching game** built using **HTML, CSS, and JavaScript**. The goal is to match all the pairs of cards in the least number of moves.
 
-This project is made using HTML,CSS &amp; JavaScript.
+### 🎯 Features
+✔️ Multiple levels of difficulty  
+✔️ Timer and move counter  
+✔️ Responsive design for mobile & desktop  
+✔️ Engaging animations  
 
-It's a simple online memory matching game, which contains various levels.
-<br>
-Here are some snapshots from game.
+## 🖥️ Snapshots
+Here are some previews of the game:
 
-<img src="Images/snapshot1.PNG" width=95% alt="snapshots">
-<img src="Images/snapshot2.PNG" width=95% alt="snapshots">
-<img src="Images/snapshot3.PNG" width=95% alt="snapshots">
-<img src="Images/snapshot4.PNG" width=95% alt="snapshots">
+![Game Screenshot](Images/snapshot1.PNG)
 
-<br><br>
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 How to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Kirti200168/Mini-Project.git
